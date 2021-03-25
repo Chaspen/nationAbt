@@ -1,0 +1,42 @@
+body {
+    border-color: red;
+    border-style: solid;
+    height: 300px;
+    width: 600px;
+}
+
+#nameLabel {
+    font-size: 30px;
+}
+
+#name {
+    display: inline-block;
+}
+
+#basicInfoBar {
+    background-color: aqua;
+    font-size: 30px;
+}
+
+#family {
+    display: inline-block;
+    float:right
+}
+
+#writingSystemLabel {
+    font-size: 30;
+}
+
+#phrasesLabel {
+    font-size: 30;
+}
+
+#phrases, #script  {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#isRoman {
+    font-size: 15px;
+    opacity: .5;
+}
